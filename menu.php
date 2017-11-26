@@ -1,6 +1,6 @@
  <div class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
       <div class="container">
-        <a href="../" class="navbar-brand">JIW</a>
+        <a href="../" class="navbar-brand" style="color: #ffbf01; font-weight: 700">JIW</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
