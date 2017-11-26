@@ -65,7 +65,7 @@
     ?>
 
 
-    <div class="container" style="margin-top: 120px">
+    <div class="container" style="margin-top: 100px">
 
 
      
@@ -78,7 +78,8 @@
               <div class="jumbotron">
                 <div class="text-center">
                   <img src="images/Rico-Geromo.png" class="rounded-circle avatar"><br>
-                  <h2 style="color: #ffa501">Jose Rico Geromo</h2>
+                  <h2 style="color: #ffa501; margin-bottom: -0.5rem;">Jose Rico Geromo</h2>
+                  <small>Founder of JIntelWare</small>
                 </div>
                 <p style="color: #d4d4d4; padding: 20px 0px 30px 0px; font-size: 18px">I'm a full stack, MEAN stack web developer living in the Philippines with 20+ years of experience. I make fully responsive/mobile friendly web application using various programming languages depending on client's preference like laravel, codeigniter, mysql, angular, express.js, nodejs, mongodb, etc...</p>
                 <h1 class="display-3" style="color: #bbb">LOOKING FOR A WEBSITE DEVELOPER?</h1>

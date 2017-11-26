@@ -59,7 +59,7 @@
     include "menu.php";
     ?>
 
-    <div class="container" style="margin-top: 120px">
+    <div class="container" style="margin-top: 100px">
 
 
 
@@ -111,7 +111,7 @@
               </div>
 
             </div>
- 
+  
 
             <div class="row">
 
@@ -149,6 +149,11 @@
               </div>
             </div>
 
+            <div class="row"> 
+              <div class="col-lg-12">
+                 <p><a class="btn btn-primary btn-md" href="#" style="margin-top: 10px" onclick="showcontact()">Contact Me</a></p>
+              </div>
+            </div> 
 
              <h5 class="display-3" style="color: #bbb; margin-top: 50px">SAMPLE TEMPLATES</h5>
 
@@ -208,6 +213,14 @@
                   <a href="https://jintelcare.herokuapp.com" target="blank">JIntelCare</a>
                 <p>
             
+            
+            <div class="row" style="margin-top: 50px"> 
+              <div class="col-lg-12">
+                 <p><a class="btn btn-primary btn-md" href="#" style="margin-top: 10px" onclick="showcontact()">Contact Me</a></p>
+              </div>
+            </div> 
+
+
 
               </div>
             </div>
