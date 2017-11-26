@@ -4,6 +4,11 @@
   <head>
     <meta charset="utf-8">
     <title>JIW - IntelWare</title>
+
+    <meta name="description" content="Full stack, MEAN stack web developer living in the Philippines with 20+ years of experience. I make fully responsive/mobile friendly web application using various programming languages depending on client's preference like laravel, codeigniter, mysql, angular, express.js, nodejs, mongodb, javascript, jquery">
+
+    <meta name="Keywords" content="full stack develolper, MEAN stack developer, website developer, responsive website, laravel, codeigniter, mysql, angular, express.js, nodejs, mongodb, javascript, jquery" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <style>
