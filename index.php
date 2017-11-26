@@ -57,7 +57,7 @@
 
   .avatar {
       width:230px;
-      background-color: #358f5b2e;
+      background-color: #71ad002e;
       margin: 1px;
       border:1px solid rgb(82, 82, 111);
       border-radius: 500px;
