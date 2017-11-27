@@ -25,7 +25,7 @@
 
     </style>
    
-    <link rel="stylesheet" href="https://miketricking.github.io/bootstrap-image-hover/css/effects.min.css" media="screen">
+   <!--  <link rel="stylesheet" href="https://miketricking.github.io/bootstrap-image-hover/css/effects.min.css" media="screen"> -->
 
     
 
@@ -44,7 +44,7 @@
     position: relative;
     width: 100%;
     height: 100%;
-    background-image: url(images/porf-bg.png);
+    background-image: url(images/portf-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -96,33 +96,33 @@
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">GigaBook</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">GigaBook</h5>
                 <div class="hover ehover6">
                 <a href="http://gigabook.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/1.png" alt="Card image"></a>
               </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
              </div>
              </div>
             
                <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">League of Ads</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">League of Ads</h5>
                 <div class="hover ehover6">
                 <a href="http://leagueofads.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/2.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div> 
               </div>
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">Broad Ripple Tickets</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">Broad Ripple Tickets</h5>
                 <div class="hover ehover6">
                 <a href="http://broadrippletickets.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/3.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div>
               </div>
@@ -134,33 +134,33 @@
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">ETA Tickets</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">ETA Tickets</h5>
                 <div class="hover ehover6">
                 <a href="http://etatickets.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/4.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
              </div>
              </div>
             
                <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">TV Startup</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">TV Startup</h5>
                 <div class="hover ehover6">
                 <a href="http://tvstartup.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/5.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div> 
               </div>
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">Nate Trotter</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">Nate Trotter</h5>
                 <div class="hover ehover6">
                 <a href="http://natetrotter.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/6.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div>
               </div>
@@ -180,44 +180,44 @@
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">Dietitian</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">Dietitian</h5>
                 <div class="hover ehover6">
                 <a href="https://jintelware.com/templates/dietitian" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/10.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
              </div>
              </div>
             
                <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">Taxi</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">Taxi</h5>
                 <div class="hover ehover6">
                 <a href="https://jintelware.com/templates/taxi" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/7.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div> 
               </div>
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">Rentals</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">Rentals</h5>
                 <div class="hover ehover6">
                 <a href="https://jintelware.com/templates/rentals" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/9.png" alt="Card image"></a>
                 </div>
-               <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+               <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div>
               </div>
             
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #295019bd; color: #d4d4d4; font-size: 14px">Tattoo Shop</h5>
+                <h5 class="card-header" style="background-color: #000; color: #d4d4d4; font-size: 14px">Tattoo Shop</h5>
                 <div class="hover ehover6">
                 <a href="https://jintelware.com/templates/tattooshop" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/8.png" alt="Card image"></a>
                 </div>
-                <div class="card-footer text-muted" style="background-color: #295019bd; color: #d4d4d4; size: 16px">
+                <div class="card-footer text-muted" style="background-color: #000; color: #d4d4d4; size: 16px">
                </div>
               </div>
             </div>

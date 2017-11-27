@@ -41,7 +41,7 @@
     position: relative;
     width: 100%;
     height: 100%;
-    background-image: url(images/hp-bg.png);
+    background-image: url(images/hp-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -56,7 +56,7 @@
   }
 
   .avatar {
-      width:230px;
+      width:400px;
       background-color: #71ad002e;
       margin: 1px;
       border:1px solid rgb(82, 82, 111);
