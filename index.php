@@ -84,7 +84,7 @@
             <div class="bs-component">
               <div class="jumbotron">
                 <div class="text-center">
-                  <img src="images/Rico-Geromo.png" class="rounded-circle avatar"><br>
+                  <img src="images/Rico-Geromo2.png" class="rounded-circle avatar"><br>
                   <h2 style="color: #ffbf01; margin-bottom: -0.5rem; opacity: .8">Jose Rico Geromo</h2>
                   <small>Founder of JIntelWare</small>
                 </div>
