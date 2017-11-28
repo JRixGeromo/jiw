@@ -116,6 +116,24 @@
               </div> 
               </div>
 
+               <div class="col-lg-4">
+               <div class="card" style="margin: 20px 0px 20px 0px">
+                <h5 class="card-header" style="background-color: #000; color: #ffbf01; font-size: 14px">Exact Tax Indy</h5>
+                <div class="hover ehover6">
+                <a href="http://exacttaxindy.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/11.png" alt="Card image"></a>
+                </div>
+               <div class="card-footer text-muted" style="background-color: #000; color: #ffbf01; size: 16px">
+               </div>
+              </div> 
+              </div>
+
+
+
+            </div>
+  
+
+            <div class="row">
+              
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
                 <h5 class="card-header" style="background-color: #000; color: #ffbf01; font-size: 14px">Broad Ripple Tickets</h5>
@@ -126,12 +144,6 @@
                </div>
               </div>
               </div>
-
-            </div>
-  
-
-            <div class="row">
-
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
                 <h5 class="card-header" style="background-color: #000; color: #ffbf01; font-size: 14px">ETA Tickets</h5>
@@ -143,16 +155,7 @@
              </div>
              </div>
             
-               <div class="col-lg-4">
-               <div class="card" style="margin: 20px 0px 20px 0px">
-                <h5 class="card-header" style="background-color: #000; color: #ffbf01; font-size: 14px">TV Startup</h5>
-                <div class="hover ehover6">
-                <a href="http://tvstartup.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/5.png" alt="Card image"></a>
-                </div>
-               <div class="card-footer text-muted" style="background-color: #000; color: #ffbf01; size: 16px">
-               </div>
-              </div> 
-              </div>
+
 
               <div class="col-lg-4">
                <div class="card" style="margin: 20px 0px 20px 0px">
@@ -164,7 +167,32 @@
                </div>
               </div>
               </div>
-            </div>
+            
+
+              <div class="col-lg-4">
+               <div class="card" style="margin: 20px 0px 20px 0px">
+                <h5 class="card-header" style="background-color: #000; color: #ffbf01; font-size: 14px">Raannt</h5>
+                <div class="hover ehover6">
+                <a href="http://raannt.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/0.png" alt="Card image"></a>
+                </div>
+               <div class="card-footer text-muted" style="background-color: #000; color: #ffbf01; size: 16px">
+               </div>
+              </div>
+              </div>
+
+               <div class="col-lg-4">
+               <div class="card" style="margin: 20px 0px 20px 0px">
+                <h5 class="card-header" style="background-color: #000; color: #ffbf01; font-size: 14px">TV Startup</h5>
+                <div class="hover ehover6">
+                <a href="http://tvstartup.com" target="blank"><img style="height: 200px; width: 100%; display: block;" src="images/portfolio/5.png" alt="Card image"></a>
+                </div>
+               <div class="card-footer text-muted" style="background-color: #000; color: #ffbf01; size: 16px">
+               </div>
+              </div> 
+              </div>
+
+
+             </div>
 
             <div class="row"> 
               <div class="col-lg-12">

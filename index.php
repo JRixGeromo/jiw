@@ -85,12 +85,23 @@
               <div class="jumbotron">
                 <div class="text-center">
                   <img src="images/Rico-Geromo2.png" class="rounded-circle avatar"><br>
-                  <h2 style="color: #ffbf01; margin-bottom: -0.5rem; opacity: .8">Jose Rico Geromo</h2>
+                  <h2 style="color: #ffbf01; margin-bottom: -0.5rem; opacity: .8; margin-top: 10px">Jose Rico Geromo</h2>
                   <small>Founder of JIntelWare</small>
                 </div>
-                <p style="color: #d4d4d4; padding: 20px 0px 30px 0px; font-size: 18px">I'm a full stack, MEAN stack web developer living in the Philippines with 20+ years of experience. I make fully responsive/mobile friendly web application using various programming languages depending on client's preference like laravel, codeigniter, mysql, angular, express.js, nodejs, mongodb, etc...<br><br>Implemented 3rd party application integration with Cronofy, Zoho Subscription, Zapier, Google Calendar.</p>
+                <p style="color: #d4d4d4; padding: 20px 0px 30px 0px; font-size: 18px">
+                  <br><br>
+                  I'm a home based full stack & MEAN stack web developer living in the Philippines with 20+ years of experience. I make fully responsive/mobile friendly web application using various programming languages depending on client's preference like laravel, codeigniter, mysql, angular, express.js, nodejs, javascript, mongodb, wordpress, etc...<br><br>Implemented 3rd party application integration with Cronofy, Zoho Subscription, Zapier, Google Calendar.               
+                </p>
                 <h1 class="display-3" style="color: #bbb">LOOKING FOR A WEBSITE DEVELOPER?</h1>
                 <p><a class="btn btn-primary btn-md" href="#" style="margin-top: 10px" onclick="showcontact()">Contact Me</a></p>
+
+                <p style="color: #d4d4d4; padding: 20px 0px 50px 0px; font-size: 18px">
+
+                  <br><br>
+                  During my office based employment, I also built and implemented desktop applications such as Accounting System, Quality Monitoring System, Shipping System (Order, Receiving, Cold Store, Loading and Report Generation), Inventory System & Payroll System. 
+                  
+                </p>
+
               </div>
             </div>
           </div>
